@@ -1,0 +1,19 @@
+{
+  "name": "taskins-calculator",
+  "version": "1.0.0",
+  "description": "simple calculator for add mul div sub",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "calculator",
+    "super",
+    "divition",
+    "subtract",
+    "add",
+    "multiply"
+  ],
+  "author": "Rabia Taskin",
+  "license": "MIT"
+}
